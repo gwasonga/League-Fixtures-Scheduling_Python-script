@@ -1,3 +1,5 @@
+#THREE GAMES PER WEEK EVERY WEEKEND - Generate all fixtures with bye week handling
+
 import os
 import pandas as pd
 from datetime import datetime, timedelta
